@@ -2,6 +2,11 @@
 
 Highly available 3-tier architecture with Terraform
 
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture.png)
+
+
 ## AWS Services Used
 
 ```hcl
