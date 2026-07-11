@@ -117,10 +117,3 @@ terraform destroy
   cat /var/log/cloud-init-output.log
 ```
 
-
-**Credits**
-```hcl
-This project is inspired from Piyush Sachdeva Terraform Repo. Original repo can fount at "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws/tree/main/lessons/day28/terraform-infra".
-
-user_data scripts for frontend/backend/bastian_host and docker files can be downloaded from original repo.
-```
